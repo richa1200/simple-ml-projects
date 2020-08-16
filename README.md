@@ -1,2 +1,2 @@
 # simple-ml-projects
-ADD DOCUMENTATION
+ADD DOCUMENTATION To Each Notbooks, Add Accuracy, Visualize
